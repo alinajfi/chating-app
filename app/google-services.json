@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008491609190",
+    "project_id": "whatsappclone-f225c",
+    "storage_bucket": "whatsappclone-f225c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008491609190:android:522d9d9652b9a790ddc1a7",
+        "android_client_info": {
+          "package_name": "najfi.ali67.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008491609190-rp7dqgl342t7lu56o5srv9nvqh2eb9te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL8IRe3p86S3QaueZkHU25BhqjvPUkWq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008491609190-rp7dqgl342t7lu56o5srv9nvqh2eb9te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
